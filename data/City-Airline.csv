@@ -1,0 +1,17 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; G-CDFS ;Embraer ERJ-135ER;; 10 Jan 2005 ; 18 Feb 2008 ;G-CDFS bmi Regional ;;;
+; SE-RAA ;Embraer ERJ-135ER; Y37 ; Apr 2004 ; 17 Dec 2013 ;ZS-TCB Airlink ;;;
+; SE-RAB ;Embraer ERJ-135LR; Y37 ; Nov 2002 ; 19 Jul 2012 ;ZS-SWN Airlink ;;;
+; SE-DZA ;Embraer ERJ-145EP;; Aug 1998 ; 4 Nov 1998 ;SE-DZA Skyways ;;;
+; SE-DZB ;Embraer ERJ-145EP; Y50 ; 7 May 2005 ; 5 Mar 2014 ;N145EP Southern Aircraft Consultancy ;;;
+; SE-RAC ;Embraer ERJ-145LR;; 19 Apr 2002 ; 9 May 2012 ;PP-JIP Private ;;;
+; SE-RAD ;Embraer ERJ-145EU; Y49 ; 9 Apr 2010 ; 21 May 2012 ; Stored ;lsd ;;
+; SE-RAE ;Embraer ERJ-145EU; Y49 ; 29 Apr 2010 ; 21 May 2012 ; Stored ;lsd ;;
+; SE-RAF ;Embraer ERJ-145LR;; 9 Jun 2011 ; 23 Nov 2016 ;F-HFKF Enhance Aero Group ;;;
+; SE-RAG ;Embraer ERJ-145LR;; 1 Sep 2011 ; 15 Oct 2013 ;UR-DNT Dniproavia ;;;
+; SE-RIA ;Embraer ERJ-145MP;; 6 Aug 2008 ; 21 May 2012 ; Stored ;lsd ;;
+; SE-DIU ;McDonnell Douglas MD-87 (DC-9-87); Y125 ; 27 Mar 2010 ; 25 Jan 2012 ;SE-DIU SAS Scandinavian Airlines ;;;
+; SE-DMC ;McDonnell Douglas MD-87 (DC-9-87); Y125 ; 15 Mar 2010 ; 27 Jan 2012 ;SE-DMC SAS Scandinavian Airlines ;lsf SAS Scandinavian Airlines ;;
+; SE-DMK ;McDonnell Douglas MD-87 (DC-9-87); Y125 ; 20 May 2010 ; 11 Sep 2011 ;SE-DMK SAS Scandinavian Airlines ;lsf SAS Scandinavian Airlines ;;
+; SE-LSA ;Saab 2000; Y47 ; 31 Aug 2006 ; 24 Aug 2007 ;G-CERZ Eastern Airways ;;;
+; SE-LSG ;Saab 2000; Y47 ; 25 Aug 2006 ; 9 Oct 2007 ;SE-LSG Air Express ;City of Kristiansand , lsd ;;

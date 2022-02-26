@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Age;;
+; TC-MKE ;Boeing 737-8 MAX; Y189 ; On Order ;; 2.2 Years ;;
+; TC-MKS ;Boeing 737-8 MAX; Y189 ; 16 May 2018 ;lsd ; 3.8 Years ;;
+; TC- ;Boeing 737-8 MAX; Y189 ; On Order ;lsd ;;;
+; TC-COE ;Boeing 737-86J(WL); Y189 ; 21 Mar 2019 ;lsd ; 10.7 Years ;;
+; TC-COH ;Boeing 737-8EH(WL); Y189 ; 12 Jul 2019 ;lsd ; 9.6 Years ;;
+; TC-CON ;Boeing 737-81D(WL); Y189 ; 25 Feb 2019 ;lsd ; 11.1 Years ;;
+; TC-COR ;Boeing 737-8SH(WL); Y189 ; 11 May 2017 ;lsd ; 4.8 Years ;;
+; TC-TJI ;Boeing 737-8S3(WL); Y189 ; 15 Apr 2011 ; Parked, lsd ; 22.1 Years ;;
+; TC-TJJ ;Boeing 737-8S3(WL); Y189 ; 19 Apr 2011 ; Parked, lsd, detur cs ; 22 Years ;;
+; TC-TJO ;Boeing 737-86N(WL); Y189 ; 16 May 2014 ;lsd ; 16.1 Years ;;
+; TC-TJP ;Boeing 737-8BK(WL); Y189 ; 1 Oct 2017 ;lsd ; 17 Years ;;
+; TC-TJR ;Boeing 737-82R(WL); Y189 ; 26 Jun 2019 ;lsd ; 10.9 Years ;;
+; TC-TJS ;Boeing 737-81B(WL); Y189 ; 21 Apr 2015 ;lsd ; 16.1 Years ;;
+; TC-TJT ;Boeing 737-8HC(WL); Y189 ; 21 Apr 2016 ;lsd ; 13.9 Years ;;
+; TC-TJU ;Boeing 737-8HX(WL); Y189 ; 29 Mar 2016 ;lsd ; 14.1 Years ;;
+; TC-TJV ;Boeing 737-86J(WL); Y189 ; 19 Jun 2021 ;lsd ; 13.7 Years ;;
+; TC-TJY ;Boeing 737-8AS(WL); Y189 ; 27 Apr 2021 ; Parked, lsd, Antalyaspor cs ; 10.5 Years ;;

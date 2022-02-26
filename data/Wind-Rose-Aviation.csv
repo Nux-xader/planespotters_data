@@ -1,0 +1,15 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Age;;
+; UR-WRW ;Airbus A320-214; Y180 ; 2 May 2019 ;lsd ; 19.5 Years ;;
+; UR-WRH ;Airbus A321-231; Y218 ; 4 Feb 2011 ;; 16.8 Years ;;
+; UR-WRI ;Airbus A321-231; Y218 ; 28 Jan 2011 ;; 16.1 Years ;;
+; UR-WRJ ;Airbus A321-231; Y218 ; 12 Apr 2013 ;; 19.3 Years ;;
+; UR-WRX ;Airbus A321-211; Y212 ; 5 Jul 2021 ;lsd ; 14.9 Years ;;
+; UR-RWA ;ATR 72-600 (72-212A); Y72 ; 24 Jun 2020 ;lsd ; 7.5 Years ;;
+; UR-RWB ;ATR 72-600 (72-212A); Y72 ; 14 Jul 2020 ;lsd ; 6.6 Years ;;
+; UR-RWC ;ATR 72-600 (72-212A);; 14 Aug 2020 ;lsd ; 4.6 Years ;;
+; UR-RWD ;ATR 72-600 (72-212A); Y70 ; 31 Aug 2020 ;lsd ; 4.4 Years ;;
+; UR-RWE ;ATR 72-600 (72-212A); Y72 ; 18 Aug 2021 ;lsd ; 7.2 Years ;;
+; UR-RWF ;ATR 72-600 (72-212A); Y72 ; 3 Sep 2021 ;lsd ; 6.7 Years ;;
+; UR-DNF ;Embraer ERJ-145EU; Y49 ; 6 Jun 2017 ;; 21 Years ;;
+; UR-DNR ;Embraer ERJ-145LR; Y48 ; 6 Jun 2017 ;; 19.5 Years ;;
+; UR-DNT ;Embraer ERJ-145LR; Y48 ; 1 Jun 2017 ;; 19 Years ;;

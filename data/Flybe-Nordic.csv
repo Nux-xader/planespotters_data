@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; OH-ATB ;ATR 42-500; Y48 ; 30 Oct 2011 ; 28 Sep 2012 ;ZS-AFR Solenta Aviation ;;;
+; OH-ATC ;ATR 42-500; Y48 ; 30 Oct 2011 ; 11 Aug 2014 ;HK-5071 Easyfly ;;;
+; OH-ATD ;ATR 42-500; Y48 ; 30 Oct 2011 ; 11 Aug 2014 ;HK-5070 Easyfly ;;;
+; OH-ATE ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATE NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATF ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATF NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATG ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATG NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATH ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATH NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATI ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATI NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATJ ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATJ NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATK ;ATR 72-500 (72-212A); Y72 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATK NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATL ;ATR 72-500 (72-212A); Y68 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATL NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATM ;ATR 72-500 (72-212A); Y72 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATM NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATN ;ATR 72-500 (72-212A); Y72 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-ATN NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATO ;ATR 72-500 (72-212A); Y72 ; 16 Nov 2011 ; 16 Jun 2015 ;OH-ATO NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-ATP ;ATR 72-500 (72-212A); Y72 ; 19 Oct 2012 ; 16 Jun 2015 ;OH-ATP NORRA - Nordic Regional Airlines ;lsd ;;
+; OH-LEI ;Embraer ERJ-170STD (ERJ-170-100); CY76 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-LEI Finnair ;lsd ;;
+; OH-LEK ;Embraer ERJ-170STD (ERJ-170-100); CY76 ; 30 Oct 2011 ; 16 Jun 2015 ;OH-LEK Finnair ;lsd ;;

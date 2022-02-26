@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; G-BZZA ;Boeing 737-3L9; Y148 ; 27 Jan 2000 ; 30 Mar 2003 ;G-BZZA Astraeus ;opby KLM uk ;;
+; G-BZZB ;Boeing 737-3L9; Y148 ; 27 Jan 2000 ; 5 Apr 2003 ;G-BZZB easyJet ;opby KLM uk ;;
+; G-BZZE ;Boeing 737-3Q8; Y148 ; 13 Dec 2002 ; 31 Oct 2004 ;G-TOYA bmibaby ;lsd ;;
+; G-BZZF ;Boeing 737-3Q8; Y148 ; 28 Jan 2003 ; 15 Oct 2004 ;G-TOYB bmibaby ;lsd ;;
+; G-BZZG ;Boeing 737-3Q8; Y148 ; 4 Mar 2003 ; 31 Oct 2004 ;G-BZZG Ryanair ;lsd ;;
+; G-BZZH ;Boeing 737-3Q8; Y148 ; 18 Mar 2003 ; 31 Oct 2004 ;G-BZZH Ryanair ;lsd ;;
+; G-BZZI ;Boeing 737-3Q8; Y148 ; 27 Mar 2003 ; 31 Oct 2004 ;G-BZZI Ryanair ;lsd ;;
+; G-BZZJ ;Boeing 737-3Q8; Y148 ; 11 Feb 2003 ; 14 Oct 2004 ;G-BZZJ Ryanair ;lsd ;;
+; G-CELS ;Boeing 737-377; Y148 ; 18 Jul 2002 ; 10 Sep 2002 ;G-CELS Channel Express ;lsf Channel Express ;;
+; G-BSNR ;British Aerospace 146-300A; Y110 ; 4 Jan 2000 ; 30 Mar 2003 ;G-BSNR BAE Systems Asset Management ;opby KLM uk ;;
+; G-BTTP ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; 30 Mar 2003 ;G-BTTP BAE Systems Asset Management ;opby KLM uk ;;
+; G-UKAC ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; Dec 2003 ;EI-DEW Cityjet ;lsf KLM cityhopper uk ;;
+; G-UKAG ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; Dec 2003 ;G-UKAG BAE Systems Asset Management ;lsf KLM cityhopper uk ;;
+; G-UKHP ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; 30 Mar 2003 ;G-UKHP Flybe ;opby KLM uk ;;
+; G-UKID ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; Dec 2003 ;EI-DEX Cityjet ;lsf KLM cityhopper uk ;;
+; G-UKRC ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; Dec 2003 ;G-UKRC BAE Systems Asset Management ;lsf KLM cityhopper uk ;;
+; G-UKSC ;British Aerospace 146-300; Y110 ; 4 Jan 2000 ; 30 Mar 2003 ;G-UKSC BAE Systems Asset Management ;opby KLM uk ;;

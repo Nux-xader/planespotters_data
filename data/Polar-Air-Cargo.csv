@@ -1,0 +1,14 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Fleet Number;Age;;
+; N452PA ;Boeing 747-46NF; Cargo ; 16 Nov 2000 ;opf DHL ; 452 ; 21.3 Years ;;
+; N453PA ;Boeing 747-46NF; Cargo ; 26 Sep 2001 ;lsd, opf DHL ; 453 ; 20.5 Years ;;
+; N454PA ;Boeing 747-46NF; Cargo ; 24 Jul 2002 ;lsd, opf DHL ; 454 ; 19.6 Years ;;
+; N851GT ;Boeing 747-87UF; Cargo ; 27 Feb 2015 ;opf DHL ; 851 ; 9.6 Years ;;
+; N852GT ;Boeing 747-87UF; Cargo ; 16 Aug 2016 ;opf DHL ; 852 ; 9.5 Years ;;
+; N853GT ;Boeing 747-87UF; Cargo ; 4 Dec 2012 ;opf DHL ; 853 ; 9.3 Years ;;
+; N855GT ;Boeing 747-87UF; Cargo ; 14 Apr 2019 ;opf DHL ; 855 ; 8.9 Years ;;
+; N857GT ;Boeing 747-87UF; Cargo ; 21 Apr 2014 ;opf DHL ; 857 ; 10.3 Years ;;
+; N858GT ;Boeing 747-87UF; Cargo ; 2 Jul 2014 ;opf DHL ; 858 ; 10.2 Years ;;
+; N642GT ;Boeing 767-3Y0ER(BDSF); Cargo ; 25 Feb 2016 ;opf DHL ; 642 ; 28.7 Years ;;
+; N643GT ;Boeing 767-3JHF(WL); Cargo ; 10 May 2014 ;opf DHL ; 643 ; 9.4 Years ;;
+; N644GT ;Boeing 767-3JHF(WL); Cargo ; 10 Jun 2014 ;opf DHL ; 644 ; 9.3 Years ;;
+; N647GT ;Boeing 767-306ER(BDSF); Cargo ; 20 May 2015 ;opf DHL ; 647 ; 25.4 Years ;;

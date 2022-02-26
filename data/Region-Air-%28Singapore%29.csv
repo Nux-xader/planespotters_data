@@ -1,0 +1,15 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; S7-RGO ;Airbus A300B4-605R;; May 2001 ; 10 Jul 2003 ;TC-OAH Onur Air ;lsd ;;
+; PK-AWD ;Airbus A310-322;; 19 Dec 2000 ; Jan 2001 ;PK-AWD AWAIR ;lsd ;;
+; S7-RGA ;Airbus A310-304;; 1 Dec 1992 ; 19 Nov 1994 ;A6-EKN Emirates ;lsd ;;
+; S7-RGQ ;Airbus A310-322;; Feb 2003 ; 24 Mar 2003 ;N410AN Ansett Worldwide (AWAS) ;lsd ;;
+; S7-RGR ;Airbus A310-322;; Feb 2003 ; 24 Mar 2003 ;N409AN Ansett Worldwide (AWAS) ;lsd ;;
+; 3B-RGZ ;Airbus A320-231;; 20 Dec 1996 ; 19 Mar 1997 ;G-MEDD British Mediterranean Airways ;lsd ;;
+; S7-RGL ;Airbus A320-232;; 2 Aug 2004 ; 1 Mar 2005 ;N721LF ILFC ;lsd ;;
+; S7-ABA ;Boeing 737-377;; 10 Sep 2002 ; Jan 2003 ;S2-AEB Biman Bangladesh Airlines ;;;
+; S7-ABB ;Boeing 737-377;; 25 Sep 2002 ; 5 Oct 2004 ;G-CELF Channel Express ;;;
+; S7-ABC ;Boeing 737-377;; 9 Oct 2002 ; Jan 2003 ;S2-AEA Biman Bangladesh Airlines ;;;
+; S7-ABD ;Boeing 737-377;; 19 Dec 2002 ; 26 Oct 2004 ;G-CELG Channel Express ;;;
+; S7-RGL ;Boeing 737-3Q4;; 20 Apr 2001 ; May 2002 ;N181LF ILFC ;lsd ;;
+; S7-RGM ;Boeing 737-3Q8;; 23 May 2001 ; 30 Jul 2001 ;S7-RGM Myanmar Airways International ;lsd ;;
+; 9V-RGB ;De Havilland Canada DHC-8-301 Dash 8; Y50 ; 15 Oct 1994 ; 2 Aug 1995 ;N100CQ WTC - Wilmington Trust Company ;;;

@@ -1,0 +1,17 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Aircraft Name;Age;;
+; HB-IHX ;Airbus A320-214; Y174 ; 29 Jan 1999 ;; Bosco Gurin ; 23.2 Years ;;
+; HB-IHY ;Airbus A320-214; Y174 ; 11 Feb 1999 ; Parked ; Blüemlisalp ; 23.2 Years ;;
+; HB-IHZ ;Airbus A320-214; Y174 ; 25 Jun 1999 ;; Kaiseregg ; 22.8 Years ;;
+; HB-IJU ;Airbus A320-214; Y174 ; 22 Nov 2015 ;lsd ; Corvatsch ; 19.1 Years ;;
+; HB-IJV ;Airbus A320-214; Y174 ; 2 Apr 2012 ;lsd ; Schatzalp ; 18.8 Years ;;
+; HB-IJW ;Airbus A320-214; Y174 ; 3 Apr 2014 ;lsd ; Braunwald ; 18.2 Years ;;
+; HB-JJK ;Airbus A320-214; Y174 ; 9 May 2018 ;lsd ; Sorebois ; 20.2 Years ;;
+; HB-JJL ;Airbus A320-214; Y180 ; 18 Dec 2017 ; Parked ; Säntis ; 16.3 Years ;;
+; HB-JJM ;Airbus A320-214; Y180 ; 18 Dec 2017 ;; Brienzer Rothorn ; 16.2 Years ;;
+; HB-JJN ;Airbus A320-214; Y174 ; 8 Feb 2019 ;; Stanserhorn ; 12.1 Years ;;
+; HB-JLS ;Airbus A320-214; Y180 ; Due ;;; 10 Years ;;
+; HB-JLT ;Airbus A320-214(WL); Y180 ; Due ;;; 9 Years ;;
+; HB-JMD ;Airbus A340-313; C27Y287 ; 14 Sep 2018 ;; Glacier 3000 ; 18.3 Years ;;
+; HB-JME ;Airbus A340-313; C27Y287 ; 19 Feb 2018 ;; Pilatus ; 18.4 Years ;;
+; HB-JMF ;Airbus A340-313; C27Y287 ; Mar 2017 ;; Belalp ; 18.3 Years ;;
+; HB-JMG ;Airbus A340-313; C27Y287 ; 1 Oct 2016 ;; Melchsee-Frutt ; 18.3 Years ;;

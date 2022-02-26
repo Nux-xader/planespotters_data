@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; EC-GRG ;Airbus A320-211;; Jun 2009 ; 14 Aug 2009 ;EC-GRG Vueling ;lsf Clickair ;;
+; EC-JIB ;Airbus A320-232;; 8 Dec 2007 ; 6 Jun 2008 ;EC-JIB LTE International Airways ;lsf LTE International Airways, VW Tiguan cs ;;
+; EI-DJH ;Airbus A320-212; Y180 ; Jan 2005 ; 22 Jul 2009 ;EI-DJH ILFC ;lsd ;;
+; EI-DJI ;Airbus A320-214; Y180 ; 7 Jan 2005 ; 30 May 2008 ;PR-MHT TAM Linhas Aéreas ;lsd ;;
+; EI-DOD ;Airbus A320-231; Y180 ; 11 Apr 2006 ; 22 Jul 2009 ;S5-AAS Adria Airways ;lsf Hannover Leasing Aircraft Ireland Ltd ;;
+; EI-DRG ;Airbus A320-231; Y180 ; 14 Jun 2006 ; 7 Nov 2008 ; Scrapped ;lsd ;;
+; EI-LTE ;Airbus A320-214; Y180 ; 17 Dec 2004 ; 28 Apr 2005 ;EC-JHJ LTE International Airways ;lsd ;;
+; HB-IJZ ;Airbus A320-211; Y159 ; 17 Dec 2004 ; 21 Mar 2008 ;HB-IJZ Tunisair ;lsf JetClub Ltd. ;;
+; I-LINB ;Airbus A320-231; Y180 ; 25 Jul 2007 ; 16 Jun 2009 ; Scrapped ;lsd ;;
+; EI-DUM ;Bombardier CRJ-900ER (CL-600-2D24); Y90 ; 19 Dec 2006 ; 22 Jul 2009 ;VN-A802 Air Mekong ;lsd ;;
+; EI-DUU ;Bombardier CRJ-900ER (CL-600-2D24); Y90 ; 13 Dec 2006 ; 22 Jul 2009 ;VN-A801 Air Mekong ;lsd ;;
+; EI-DUX ;Bombardier CRJ-900ER (CL-600-2D24); Y90 ; 31 Jan 2007 ; 22 Jul 2009 ;VN-A803 Air Mekong ;lsd ;;
+; EI-DUY ;Bombardier CRJ-900ER (CL-600-2D24); Y90 ; 31 Jan 2007 ; 22 Jul 2009 ;VN-A804 Air Mekong ;lsd ;;
+; 9A-CBD ;McDonnell Douglas MD-82 (DC-9-82);; Aug 2005 ; 21 Dec 2005 ;ZA-ARB Belle Air ;lsf Air Adriatic ;;
+; 9A-CBF ;McDonnell Douglas MD-82 (DC-9-82); Y160 ; Sep 2005 ; Dec 2005 ;9A-CBF Air Adriatic ;lsf Air Adriatic ;;
+; 9A-CBG ;McDonnell Douglas MD-82 (DC-9-82);; Aug 2005 ; Sep 2005 ;9A-CBG Air Adriatic ;lsf Air Adriatic ;;
+; 9A-CBH ;McDonnell Douglas MD-82 (DC-9-82); Y160 ; 8 Sep 2005 ; Mar 2007 ;9A-CBH Air Adriatic ;lsf Air Adriatic ;;

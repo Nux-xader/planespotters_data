@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; N502MD ;McDonnell Douglas DC-9-33RC;; 11 Jul 1983 ; Aug 1984 ;N930AX Airborne Express ;lsf McDonnell Douglas ;;
+; N670MC ;McDonnell Douglas DC-9-51;; 4 Oct 1983 ; 17 Feb 1986 ;N670MC TranStar Airlines ;lsd ;;
+; N671MC ;McDonnell Douglas DC-9-51;; 14 Oct 1983 ; 17 Feb 1986 ;N671MC TranStar Airlines ;lsd ;;
+; N672MC ;McDonnell Douglas DC-9-51;; 5 Jan 1984 ; 1 Nov 1987 ;N672MC Linea Aeropostal Venezolana (LAV) ;;;
+; N673MC ;McDonnell Douglas DC-9-51;; 30 Mar 1984 ; 17 Feb 1986 ;N673MC TranStar Airlines ;;;
+; N674MC ;McDonnell Douglas DC-9-51;; 26 Mar 1984 ; 17 Feb 1986 ;N674MC TranStar Airlines ;;;
+; N675MC ;McDonnell Douglas DC-9-51;; 12 Mar 1985 ; 17 Feb 1986 ;N675MC TranStar Airlines ;lsd ;;
+; N676MC ;McDonnell Douglas DC-9-51;; 25 Mar 1985 ; 17 Feb 1986 ;N676MC TranStar Airlines ;lsd ;;
+; N677MC ;McDonnell Douglas DC-9-51;; 12 Mar 1985 ; 17 Feb 1986 ;N677MC TranStar Airlines ;lsd ;;
+; N10028 ;McDonnell Douglas MD-81 (DC-9-81);; 29 Jun 1981 ; 9 Dec 1982 ;N10028 Jet America Airlines ;;;
+; N10029 ;McDonnell Douglas MD-81 (DC-9-81);; 2 Jul 1981 ; 17 Sep 1983 ;N10029 Midway Airlines ;;;
+; N930MC ;McDonnell Douglas MD-82 (DC-9-82);; Jul 1982 ; 17 Feb 1986 ;N930MC TranStar Airlines ;;;
+; N931MC ;McDonnell Douglas MD-82 (DC-9-82);; Jul 1982 ; 17 Feb 1986 ;N931MC TranStar Airlines ;;;
+; N932MC ;McDonnell Douglas MD-82 (DC-9-82);; 28 Sep 1982 ; 17 Feb 1986 ;N932MC TranStar Airlines ;;;
+; N933MC ;McDonnell Douglas MD-82 (DC-9-82);; 28 Sep 1982 ; 17 Feb 1986 ;N933MC TranStar Airlines ;;;
+; N934MC ;McDonnell Douglas MD-82 (DC-9-82);; 14 Dec 1982 ; 17 Feb 1986 ;N934MC TranStar Airlines ;;;
+; N935MC ;McDonnell Douglas MD-82 (DC-9-82);; 29 Nov 1982 ; 17 Feb 1986 ;N935MC TranStar Airlines ;;;

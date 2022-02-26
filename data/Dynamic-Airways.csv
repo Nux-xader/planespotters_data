@@ -1,0 +1,15 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; N250MY ;Boeing 767-238ER;; 10 Jul 2013 ; 13 Jun 2014 ;N250MY Boeing ;;;
+; N251MY ;Boeing 767-269ER;; 12 Sep 2015 ; 29 Oct 2015 ; Written Off ;lsd ;;
+; N253MY ;Boeing 767-23BER;; 2 May 2014 ; 28 Feb 2020 ; Scrapped ;;;
+; N712AX ;Boeing 767-2J6ER;; 20 Dec 2011 ; 1 Feb 2012 ;HS-DCM Asian Air ;;;
+; N767DA ;Boeing 767-246; F18Y200 ; 3 Jun 2012 ; 13 Apr 2018 ;N767DA Eastern Airlines ;;;
+; N768QT ;Boeing 767-241ER(BDSF); Cargo ; Mar 2014 ; Oct 2014 ;N768QT 21 Air ;;;
+; N769DA ;Boeing 767-246; F18Y200 ; 23 Mar 2011 ; 24 Mar 2015 ;N769DA Jet Midwest Group ;;;
+; N770JM ;Boeing 767-233;; 6 Dec 2013 ; 13 Apr 2018 ;N770JM Eastern Airlines ;;;
+; N254MY ;Boeing 767-336ER;; Aug 2014 ; 12 Apr 2018 ;N254MY Eastern Airlines ;;;
+; N740JM ;Boeing 767-336ER;; 3 Apr 2016 ; 12 Apr 2018 ;N740JM Eastern Airlines ;;;
+; N793JM ;Boeing 767-336ER;; 23 Jul 2017 ; 13 Apr 2018 ;N793JM Eastern Airlines ;;;
+; N796JM ;Boeing 767-336ER;; 8 Dec 2014 ; 13 Apr 2018 ;N796JM Eastern Airlines ;;;
+; N880DA ;McDonnell Douglas MD-88;; 30 Aug 2011 ; 30 Aug 2011 ;N880DA Infinity Trading Solutions ;;;
+; N884DA ;McDonnell Douglas MD-88;; 8 Oct 2010 ; 29 Aug 2011 ; Scrapped ;;;

@@ -1,0 +1,12 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; SL-AAC ;Airbus A320-231;; 3 May 1992 ; 31 May 1992 ;SL-AAC Adria Airways ;lsf Adria Airways ;;
+; G-BGYJ ;Boeing 737-204(A);; 10 Dec 1989 ; 30 Apr 1990 ;G-BGYJ Britannia Airways ;lsf Britannia Airways ;;
+; G-BGYK ;Boeing 737-204(A);; 10 Dec 1989 ; 11 Jan 1990 ;G-BGYK Britannia Airways ;lsf Britannia Airways ;;
+; OO-SDA ;Boeing 737-229(A);; 23 Dec 1993 ; 20 Jan 1994 ;OO-SDA Sobelair ;;;
+; F-GHVM ;Boeing 737-33A;; 20 Nov 1991 ; Mar 1992 ;F-GHVM Air France ;lsf Air Charter ;;
+; OO-LTJ ;Boeing 737-3M8;; 31 Jan 1992 ; 30 Mar 1992 ;OO-LTJ EuroBelgian Airlines (EBA) ;lsf TEA - Trans European Airlines ;;
+; OO-LTM ;Boeing 737-3M8;; 27 Feb 1992 ; 29 Mar 1992 ;OO-LTM EuroBelgian Airlines (EBA) ;lsf EuroBelgian Airlines (EBA) ;;
+; SU-BLN ;Boeing 737-3A4;; 23 Apr 1992 ; 1 Jul 1993 ;N776MA Morris Air Service ;lsd ;;
+; SU-BLR ;Boeing 737-3K2;; 30 Sep 1992 ; 13 Dec 1992 ;PH-HVK Transavia ;lsf Transavia ;;
+; SU-BLL ;Boeing 737-4Y0;; 14 Jul 1992 ; Nov 1993 ;F-GNFS Trans Alsace ;lsd ;;
+; SU-BLM ;Boeing 737-4Y0;; 15 Sep 1993 ; Apr 1994 ;EI-CEU MarkAir ;lsd ;;

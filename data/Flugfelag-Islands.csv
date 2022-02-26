@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; TF-ELJ ;ATR 42-300; Y46 ; 4 Apr 2000 ; 8 Apr 2003 ;LY-ARY Air Lithuania ;;;
+; TF-ELK ;ATR 42-300;; Mar 2002 ; 18 Dec 2002 ;TF-ELK Air Antilles Express ;;;
+; TF-FXA ;Bombardier DHC-8-402Q Dash 8; Y76 ; 28 Aug 2015 ; 24 May 2017 ;TF-FXA Air Iceland Connect ;Auður djúpúðga ;;
+; TF-FXB ;Bombardier DHC-8-402Q Dash 8; Y76 ; 10 Sep 2015 ; 24 May 2017 ;TF-FXB Air Iceland Connect ;Hallgerður langbrók ;;
+; TF-FXI ;Bombardier DHC-8-402Q Dash 8; Y72 ; 21 Aug 2015 ; 24 May 2017 ;TF-FXI Air Iceland Connect ;Þórunn hyrna ;;
+; TF-JMA ;De Havilland Canada DHC-8-106 Dash 8; Y37 ; 1 May 2007 ; 30 Mar 2012 ;OY-RUI Danish Air Transport (DAT) ;;;
+; TF-JMB ;De Havilland Canada DHC-8-106 Dash 8; Y37 ; 31 Jul 2006 ; 4 Mar 2011 ; Written Off ;;;
+; TF-FXG ;De Havilland Canada DHC-8-202Q Dash 8; Y37 ; Jan 2017 ; 24 May 2017 ;TF-FXG Air Iceland Connect ;Arndís auðga ;;
+; TF-FXK ;De Havilland Canada DHC-8-202Q Dash 8; Y37 ; Nov 2016 ; 24 May 2017 ;TF-FXK Air Iceland Connect ;Þuríður sundafyllir ;;
+; TF-JMG ;Fokker F50; Y50 ; 5 Sep 2001 ; 5 Jun 2004 ;OO-VLL VLM ;lsf Elmo Aviation ;;
+; TF-JMM ;Fokker F50; Y50 ; 2 Jul 2004 ; Dec 2015 ;2-RLAG Regio Lease ;lsd ;;
+; TF-JMN ;Fokker F50; Y50 ; 30 Apr 2004 ; 18 Apr 2016 ;5Y-SMO Silverstone Air Services ;;;
+; TF-JMO ;Fokker F50; Y50 ; 6 Aug 2004 ; 29 Jan 2014 ;9Q-CJB flyCAA ;;;
+; TF-JMR ;Fokker F50; Y50 ; 15 May 2001 ; 14 Apr 2016 ;5Y-WFB Buffair Services ;;;
+; TF-JMS ;Fokker F50; Y50 ; 16 May 2008 ; 16 Sep 2015 ;5Y-IZO Silverstone Air Services ;Skemmtum Okkur Innanlands (Have Fun Domestic) cs ;;
+; TF-JMT ;Fokker F50; Y50 ; 15 May 2001 ; 18 Apr 2016 ;5Y-WFC Buffair Services ;;;
+; TF-JMU ;Fokker F50; Y50 ; 20 May 2003 ; 20 Oct 2004 ;OO-VLZ VLM ;;;

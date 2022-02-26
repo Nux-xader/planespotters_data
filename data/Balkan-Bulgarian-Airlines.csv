@@ -1,0 +1,17 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; LZ-ABA ;Airbus A320-231;; 5 Dec 1991 ; Jul 1995 ;N257RX ORIX Aviation ;Vitosha, lsd ;;
+; LZ-ABB ;Airbus A320-231;; 21 Jan 1992 ; Oct 1996 ;N271RX ORIX Aviation ;Rila, lsd ;;
+; LZ-ABC ;Airbus A320-231;; 1 Jul 1992 ; 29 Mar 1996 ;LZ-ABC Pegasus ;Rhodope, lsd ;;
+; LZ-ABD ;Airbus A320-231;; 18 Jul 1992 ; Oct 1996 ;N314RX ORIX Aviation ;Pirin, lsd ;;
+; LZ-ATA ;ATR 42-300;; Oct 2000 ; Dec 2000 ;HB-AFD Farnair Switzerland ;lsd ;;
+; LZ-ATB ;ATR 42-300;; 24 Aug 2000 ; 23 Feb 2001 ;YV-1074C Linea Aerea IAACA (LAI) ;lsd ;;
+; LZ-BOD ;Boeing 737-3Y0;; 16 Dec 1999 ; 5 Mar 2001 ;N749AP Aero USA Inc ;City of Bourgas, lsd ;;
+; LZ-BOE ;Boeing 737-3Y0;; Jan 2000 ; 5 Mar 2001 ;N923AP GECAS ;City of Rouse, lsd ;;
+; LZ-BOF ;Boeing 737-3M8;; 5 Sep 2000 ; 2 Mar 2001 ;N250GE GECAS ;City of Vidin, lsd ;;
+; LZ-BOG ;Boeing 737-330;; 4 Jun 2002 ; 1 Dec 2002 ;LZ-BOG Balkan Air Tours ;;;
+; LZ-BOH ;Boeing 737-330;; 5 Jun 2002 ; 1 Dec 2002 ;LZ-BOH Balkan Air Tours ;;;
+; LZ-BOA ;Boeing 737-53A;; 7 Nov 1990 ; 9 Dec 2000 ;PT-SSN Rio Sul ;City of Sofia, lsd ;;
+; LZ-BOB ;Boeing 737-53A;; 11 Dec 1990 ; 15 Dec 2000 ;PT-SSO Rio Sul ;City of Plovdiv, lsd ;;
+; LZ-BOC ;Boeing 737-53A;; 6 Dec 1991 ; 7 Mar 2001 ;N425AN Ansett Worldwide (AWAS) ;City of Varna, lsd ;;
+; F-GHGD ;Boeing 767-27EER;; 2 Apr 1992 ; 29 Jan 1999 ;F-GHGD Air France ;Pliska, lsf Air France ;;
+; F-GHGE ;Boeing 767-27EER;; 15 May 1992 ; 30 Mar 1999 ;F-GHGE Air France ;Preslav, lsf Air France ;;

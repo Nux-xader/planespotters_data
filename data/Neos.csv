@@ -1,0 +1,16 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Aircraft Name;Age;;
+; EI-RZA ;Boeing 737-8 MAX; Y186 ; 30 Mar 2021 ;lsd ; Marco Polo ; 2.9 Years ;;
+; EI-RZB ;Boeing 737-8 MAX; Y186 ; 30 Mar 2021 ;lsd ; Cristoforo Colombo ; 2.7 Years ;;
+; EI-RZC ;Boeing 737-8 MAX; Y186 ; 8 Jun 2021 ;lsd ; Amerigo Vespucci ; 2.6 Years ;;
+; EI-RZD ;Boeing 737-8 MAX; Y186 ; 8 Jun 2021 ;lsd ; Francesco Morosini ; 2.2 Years ;;
+; EI-GRJ ;Boeing 737-81M(WL); Y186 ; 20 Dec 2019 ;lsd ; Ciao Gin ; 12.8 Years ;;
+; I-NEOT ;Boeing 737-86N(WL); Y186 ; 24 May 2002 ;lsd ; Città di Torino ; 19.8 Years ;;
+; I-NEOU ;Boeing 737-86N(WL); Y186 ; 24 Jan 2003 ;lsd ; Città di Verona ; 19.2 Years ;;
+; I-NEOW ;Boeing 737-86N(WL); Y186 ; 12 Feb 2009 ;lsd ; Lago Maggiore ; 15.1 Years ;;
+; I-NEOZ ;Boeing 737-86N(WL); Y186 ; 26 Feb 2011 ; Parked, lsd ; Monte Rosa ; 15.6 Years ;;
+; EI-NEO ;Boeing 787-9 Dreamliner; W28Y331 ; 11 Dec 2017 ;lsd ; Spirit of Italy ; 4.3 Years ;;
+; EI-NEU ;Boeing 787-9 Dreamliner; W28Y331 ; 30 Oct 2018 ;lsd ; European Dream ; 3.3 Years ;;
+; EI-NEW ;Boeing 787-9 Dreamliner; W28Y331 ; 27 Jun 2018 ;lsd ; Erminio Ferri ; 3.7 Years ;;
+; EI-NUA ;Boeing 787-9 Dreamliner; W28Y331 ; 15 Sep 2019 ; Parked, lsd ; Las Americas ; 2.5 Years ;;
+; EI-NYE ;Boeing 787-9 Dreamliner; W35Y309 ; 7 Dec 2020 ;lsd ; Valerio Catullo ; 5 Years ;;
+; EI-XIN ;Boeing 787-9 Dreamliner; W35Y309 ; 16 Feb 2021 ; Parked, lsd ; Ciudad de La Habana ; 4.5 Years ;;

@@ -1,0 +1,14 @@
+;Reg;Aircraft Type; Config ;Delivered; Remark ;Fleet Number;Aircraft Name;Age;;
+; C-FTAR ;ATR 72-202(F); Cargo ; 3 Jan 2013 ;lsf FedEx Express, opf FedEx Feeder ;;; 31.1 Years ;;
+; C-FTMN ;ATR 72-202(F); Cargo ; 20 Nov 2020 ;lsf FedEx Express, opf FedEx Feeder ;;; 30.8 Years ;;
+; C-FTMY ;ATR 72-202(F); Cargo ; 27 Nov 2020 ;lsf FedEx Express, opf FedEx Feeder ;;; 30 Years ;;
+; C-FVDO ;ATR 72-202(F); Cargo ; 23 Oct 2020 ;lsf FedEx Express, opf FedEx Feeder ;;; 31 Years ;;
+; C-FMAI ;Boeing 757-2B7(SF); Cargo ; 22 Jul 2010 ;lsf FedEx Express ; 908 ; Abby ; 28.3 Years ;;
+; C-FMEK ;Boeing 757-2B7(SF); Cargo ; 27 Jan 2011 ;lsf FedEx Express ; 902 ; Hannah ; 29 Years ;;
+; C-FMEP ;Boeing 757-2B7(SF); Cargo ; 25 Oct 2010 ;lsf FedEx Express ; 904 ; Rachel ; 28.9 Years ;;
+; C-FMEQ ;Boeing 757-2B7(SF); Cargo ; 28 Oct 2015 ;lsf FedEx Express ; 905 ; Katarina ; 28.9 Years ;;
+; C-FMEU ;Boeing 757-2B7(SF); Cargo ; 25 Jan 2011 ;lsf FedEx Express ; 909 ; Reagan ; 28.3 Years ;;
+; C-FMEZ ;Boeing 757-2B7(SF); Cargo ; 23 Jun 2021 ; Parked, lsf FedEx Express ; 976 ;; 28.8 Years ;;
+; C-FMFG ;Boeing 757-2B7(SF); Cargo ; 21 Jul 2010 ;lsf FedEx Express ; 907 ; Megan ; 28.3 Years ;;
+; C-FMHA ;Boeing 757-2B7(SF); Cargo ; 8 Jan 2019 ;lsf FedEx Express ; 975 ; Nikola ; 28.8 Years ;;
+; C-FMOC ;Boeing 757-2B7(SF); Cargo ; 19 Jul 2017 ;lsf FedEx Express ; 906 ; Sophie ; 28.7 Years ;;

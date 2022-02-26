@@ -1,0 +1,18 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; OK-LEE ;Airbus A320-214; Y180 ; 21 May 2012 ; 2 Nov 2012 ;OK-LEE HOLIDAYS Czech Airlines ;opby HOLIDAYS Czech Airlines ;;
+; G-STRB ;Boeing 737-3Y0;; 26 Feb 2003 ; 7 Nov 2004 ;G-STRB Astraeus ;lsf Astraeus ;;
+; G-STRE ;Boeing 737-36N;; 1 Apr 2004 ; 28 Mar 2005 ;G-STRE Flybe ;lsf Astraeus ;;
+; G-STRI ;Boeing 737-33A; Y148 ; Jun 2011 ; 25 Apr 2012 ;A6-ESS Eastern SkyJets ;lsf Astraeus ;;
+; G-STRJ ;Boeing 737-33A; Y148 ; 1 Jun 2010 ; 15 Jan 2011 ;XU-TSA TonleSap Airlines ;lsf Astraeus ;;
+; G-PJPJ ;Boeing 737-5H6; Y123 ; Mar 2011 ; 21 Nov 2011 ;G-PJPJ Astraeus ;opby Astraeus ;;
+; G-STRF ;Boeing 737-76N(WL); Y148 ; 11 Mar 2009 ; 21 Nov 2011 ;OK-SWX Smartwings ;lsf Astraeus ;;
+; G-STRN ;Boeing 737-7L9(WL); Y148 ; 1 May 2009 ; 17 Oct 2011 ;G-STRN Astraeus ;lsf Astraeus ;;
+; G-STRX ;Boeing 757-28A;; 21 Jun 2010 ; Sep 2010 ;G-STRX Astraeus ;lsf Astraeus ;;
+; G-STRY ;Boeing 757-28A;; 5 Jun 2011 ; 31 Aug 2011 ;G-STRY Astraeus ;opby Astraeus ;;
+; G-STRZ ;Boeing 757-258;; 7 Jun 2010 ; 1 Oct 2010 ;G-STRZ Saudi Arabian Airlines ;opby Astraeus ;;
+; TF-JXA ;McDonnell Douglas MD-82 (DC-9-82); Y162 ; 6 Jul 2005 ; 8 Oct 2005 ;TF-JXA JetX Airlines ;lsf JetX Airlines ;;
+; TF-JXB ;McDonnell Douglas MD-82 (DC-9-82); Y162 ; 21 May 2005 ; 6 Apr 2006 ;TF-JXB JetX Airlines ;lsf JetX Airlines ;;
+; HB-JIC ;McDonnell Douglas MD-90-30;; 11 May 2006 ; 4 May 2007 ;HB-JIC Hello ;lsf Hello ;;
+; HB-JID ;McDonnell Douglas MD-90-30; Y167 ; 6 Apr 2006 ; 9 Apr 2009 ;HB-JID Hello ;lsf Hello ;;
+; HB-JIE ;McDonnell Douglas MD-90-30; Y167 ; 14 May 2008 ; 15 Sep 2008 ;HB-JIE Hello ;lsf Hello ;;
+; HB-JIF ;McDonnell Douglas MD-90-30; Y167 ; 3 Mar 2006 ; Sep 2008 ;HB-JIF Hello ;lsf Hello ;;

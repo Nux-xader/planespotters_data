@@ -1,0 +1,16 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; EI-TLE ;Airbus A320-231;; 22 Nov 1994 ; 14 Feb 1995 ;EI-TLE Translift Airways ;lsf Translift Airways ;;
+; EI-TLF ;Airbus A320-231;; 13 Nov 1994 ; 6 May 1995 ;EI-TLF Translift Airways ;lsf Translift Airways ;;
+; EI-TLG ;Airbus A320-231;; Dec 1994 ; 15 Mar 1995 ;EI-TLG Virgin Express Ireland ;lsf Translift Airways ;;
+; N315RX ;Airbus A320-231;; 15 Jun 1994 ; 23 Jan 1995 ;N315RX ORIX Aviation ;lsd ;;
+; N317RX ;Airbus A320-231;; 16 Sep 1992 ; 21 Apr 1995 ;N300ML Midway Airlines ;lsd ;;
+; N338RX ;Airbus A320-231;; Sep 1992 ; 10 Jun 1995 ;N302ML Midway Airlines ;lsd ;;
+; N340LA ;Airbus A320-232;; 18 Nov 1993 ; 10 Mar 1995 ;HC-BUH SAETA Air Ecuador ;lsd ;;
+; N444RX ;Airbus A320-231;; 1 Nov 1994 ; 31 Mar 1995 ;TC-ONF Onur Air ;lsd ;;
+; N240LA ;Boeing 757-28A;; Nov 1993 ; 8 Mar 1995 ;N381LF ILFC ;lsd ;;
+; N250LA ;Boeing 757-23A;; 2 Dec 1993 ; 20 Apr 1995 ;N916AW America West Airlines ;lsd ;;
+; N1826U ;McDonnell Douglas DC-10-10;; 31 Dec 1993 ; 18 Nov 1994 ;N1826U United Airlines ;lsf United Airlines ;;
+; N1827U ;McDonnell Douglas DC-10-10;; 3 Mar 1994 ; 18 Nov 1994 ;N1827U United Airlines ;lsf United Airlines ;;
+; EI-DLA ;McDonnell Douglas DC-10-30;; 6 Jul 1994 ; 30 Jul 1996 ;EI-DLA Continental Air Lines ;;;
+; N831LA ;McDonnell Douglas DC-10-30;; 27 May 1994 ; 21 Nov 1995 ;G-BWIN Caledonian Airways ;lsd ;;
+; N832LA ;McDonnell Douglas DC-10-30;; 15 Jun 1994 ; 25 Apr 1996 ;N832LA Laker Airways ;lsd ;;

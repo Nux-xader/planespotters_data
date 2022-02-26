@@ -1,0 +1,17 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; CC-COU ;Airbus A319-132; Y136 ; 11 Dec 2003 ; Aug 2005 ;CC-COU LAN Airlines ;lsd ;;
+; CC-COX ;Airbus A319-132; Y136 ; 16 Dec 2003 ; May 2005 ;CC-COX LAN Airlines ;lsd ;;
+; CC-COH ;Airbus A320-233;; 12 Jul 2001 ; Jan 2005 ;CC-COH LAN Airlines ;;;
+; CC-COI ;Airbus A320-233; Y168 ; 10 Aug 2001 ; Feb 2004 ;CC-COI LAN Chile ;;;
+; CC-COK ;Airbus A320-233;; 27 Aug 2001 ; Apr 2004 ;CC-COK LAN Chile ;;;
+; CC-COM ;Airbus A320-233;; 23 Nov 2001 ; Apr 2004 ;CC-COM LAN Chile ;lsd ;;
+; CC-CEI ;Boeing 737-248C;; 29 Oct 2001 ; Feb 2002 ;CC-CEI LAN Chile ;lsf LAN Chile ;;
+; CC-CRQ ;Boeing 737-230(A);; Feb 2004 ; 2 Jun 2005 ;LV-BBM LAN Argentina ;lsf LAN Airlines ;;
+; CC-CRS ;Boeing 737-230(A);; 2003 ; 8 Sep 2004 ;CC-CRS LAN Airlines ;;;
+; CC-CSP ;Boeing 737-204(A);; Dec 2001 ; Mar 2004 ;CC-CSP LAN Chile ;lsf LAN Chile ;;
+; CC-CVC ;Boeing 737-229(A); Y120 ; May 2002 ; Jul 2003 ;CC-CVC LAN Chile ;lsf LAN Chile ;;
+; CC-CVG ;Boeing 737-291(A);; 3 Sep 2002 ; 8 Sep 2004 ;CC-CVG LAN Airlines ;;;
+; CC-CVI ;Boeing 737-2Q3(A);; Feb 2002 ; 8 Sep 2004 ;CC-CVI LAN Airlines ;;;
+; CC-CYK ;Boeing 737-205(A);; 24 Apr 2002 ; 8 Sep 2004 ;CC-CYK LAN Airlines ;;;
+; CC-CZK ;Boeing 737-236(A);; 29 Oct 2001 ; Oct 2005 ;CC-CZK LAN Airlines ;lsf LAN Airlines ;;
+; CC-CZO ;Boeing 737-236(A); Y124 ; 24 Sep 2002 ; Aug 2005 ;CC-CZO LAN Airlines ;;;

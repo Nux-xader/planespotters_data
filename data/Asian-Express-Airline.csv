@@ -1,0 +1,11 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; EY-333 ;Airbus A320-214;; 23 Nov 2012 ; Sep 2013 ;EY-333 Qeshm Airlines ;;;
+; EY-631 ;Airbus A320-214;; Mar 2013 ; Mar 2013 ;EY-631 Qeshm Airlines ;;;
+; EY-632 ;Airbus A320-214;; 2013 ; 2013 ;EY-632 Qeshm Airlines ;;;
+; EY-680 ;Airbus A340-313;; 10 Sep 2015 ; 15 Sep 2015 ;EP-AJA Islamic Republic of Iran ;;;
+; EY-556 ;Boeing 737-33V;; 7 Aug 2017 ; Dec 2019 ;EP-FPB FlyPersia ;;;
+; EY-570 ;British Aerospace Avro RJ100; Y110 ; 29 Apr 2013 ; Aug 2014 ;EP-FQX Qeshm Airlines ;;;
+; EY-572 ;British Aerospace Avro RJ100;; 1 Nov 2012 ; 18 Jan 2015 ;EP-FQU Qeshm Airlines ;;;
+; EY-573 ;British Aerospace Avro RJ100;; 18 Jan 2013 ; 27 Jan 2015 ;EP-FQT Qeshm Airlines ;;;
+; EY-574 ;British Aerospace Avro RJ100;; 18 Jan 2013 ; 27 Jan 2015 ;EP-FQV Qeshm Airlines ;;;
+; EY-571 ;British Aerospace Avro RJ85;; 7 Mar 2012 ; 29 Jul 2015 ;EP-FQS Qeshm Airlines ;;;

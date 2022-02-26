@@ -1,0 +1,10 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; S7-RGO ;Airbus A300B4-605R;; Oct 2000 ; May 2001 ;S7-RGO Region Air ;lsf Region Air ;;
+; PK-AWA ;Airbus A310-322;; 31 Mar 2000 ; Feb 2003 ;S7-RGR Region Air ;lsd ;;
+; PK-AWD ;Airbus A310-304;; Jan 2001 ; Jul 2001 ;S7-RGN Pacific Airlines ;lsd ;;
+; PK-AWR ;Airbus A310-322;; Mar 2001 ; Jul 2001 ;PK-LEO Lion Air ;lsd ;;
+; PK-AWE ;Airbus A320-232;; Jan 2002 ; 6 Aug 2002 ;S7-RGL Region Air ;lsf Region Air ;;
+; PK-AWS ;Boeing 737-3S1; Y148 ; 10 Aug 2005 ; 23 Nov 2005 ;PK-AWS Indonesia AirAsia ;lsf AirAsia ;;
+; PK-AWT ;Boeing 737-347;; 2 Sep 2005 ; 23 Nov 2005 ;PK-AWT Indonesia AirAsia ;;;
+; PK-AWU ;Boeing 737-301;; 7 Jan 2005 ; 23 Nov 2005 ;PK-AWU Indonesia AirAsia ;lsd ;;
+; PK-AWV ;Boeing 737-301;; 20 Nov 2004 ; 1 Dec 2005 ;PK-AWV Indonesia AirAsia ;;;

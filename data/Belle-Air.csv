@@ -1,0 +1,17 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; F-ORAF ;Airbus A319-132; Y144 ; 31 Jul 2009 ; 14 Feb 2011 ;EI-LIR Belle Air Europe ;lsd ;;
+; F-ORAG ;Airbus A319-132; Y144 ; 4 Aug 2010 ; 2 Apr 2014 ;N794JM Jet Midwest Group ;lsd ;;
+; F-ORAH ;Airbus A319-132; Y144 ; 12 Jun 2012 ; 6 Mar 2014 ;YU-APA Air Serbia ;lsd ;;
+; F-ORAJ ;Airbus A319-132; Y144 ; 4 Jul 2013 ; 8 May 2014 ;N271CT CIT Leasing Corporation ;lsd ;;
+; F-ORAD ;Airbus A320-233; Y180 ; 22 Jul 2009 ; 28 Apr 2014 ;LY-VEO Avion Express ;lsf Volito Aviation ;;
+; F-ORAE ;Airbus A320-233; Y180 ; 25 Jun 2009 ; 18 Oct 2013 ;LY-VEP Avion Express ;lsf Volito Aviation ;;
+; LZ-ATR ;ATR 42-300; Y46 ; 20 Jul 2008 ; 8 Dec 2009 ;LZ-ATR Hemus Air ;lsf Hemus Air ;;
+; F-ORAA ;ATR 72-500 (72-212A); Y68 ; 21 Aug 2009 ; 24 Nov 2013 ;OY-YAI Nordic Aviation Capital (NAC) ;;;
+; F-ORAI ;ATR 72-500 (72-212A); Y68 ; 13 Jul 2012 ; 24 Nov 2013 ;OY-YAJ Nordic Aviation Capital (NAC) ;;;
+; LZ-HBB ;British Aerospace 146-200A; CY76 ; Mar 2008 ; Jul 2008 ;LZ-HBB Hemus Air ;lsf Hemus Air ;;
+; LZ-HBC ;British Aerospace 146-200;; 11 Aug 2007 ; 8 Aug 2009 ;LZ-HBC Hemus Air ;lsf Hemus Air ;;
+; LZ-HBZ ;British Aerospace 146-200A; Y97 ; 1 Jul 2008 ; 1 Oct 2008 ;LZ-HBZ Hemus Air ;lsf Hemus Air ;;
+; LZ-HBF ;British Aerospace 146-300; Y110 ; 23 Mar 2007 ; 21 Oct 2009 ;LZ-HBF Hemus Air ;lsf Hemus Air ;;
+; ZA-ARC ;Fokker F100; CY102 ; May 2007 ; Mar 2009 ;4O-AOL Montenegro Airlines ;lsf Montenegro Airlines ;;
+; ZA-ARB ;McDonnell Douglas MD-82 (DC-9-82);; 21 Dec 2005 ; 16 Jan 2008 ;S5-ACC Aurora Airlines ;lsf Air Adriatic ;;
+; ZA-ARD ;McDonnell Douglas MD-82 (DC-9-82); Y164 ; 2 Jul 2007 ; 20 Jun 2012 ;N918AV Bank of Utah ;;;

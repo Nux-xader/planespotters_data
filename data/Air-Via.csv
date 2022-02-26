@@ -1,0 +1,15 @@
+;Reg;Aircraft Type; Config ;Delivered;Exit Date; Status / Fate ; Remark ;;
+; LZ-MDA ;Airbus A320-232; Y180 ; 16 May 2013 ; 28 Aug 2015 ;EI-FLZ Accipiter ;lsd ;;
+; LZ-MDB ;Airbus A320-232; Y180 ; 17 Apr 2013 ; May 2015 ;F-WTDR Macquarie AirFinance ;lsd ;;
+; LZ-MDC ;Airbus A320-232; Y180 ; 28 Apr 2010 ; 9 Apr 2013 ;LZ-MDC WOW air ;lsd ;;
+; LZ-MDD ;Airbus A320-232; Y180 ; 27 May 2010 ; 22 Mar 2013 ;LZ-MDD WOW air ;lsd ;;
+; LZ-MDM ;Airbus A320-232; Y180 ; 14 Jun 2006 ; 6 Apr 2012 ;F-WTDA Macquarie AirFinance ;lsd ;;
+; LZ-MDO ;Airbus A320-214;; 8 Jun 2016 ; 12 Oct 2016 ;LZ-MDO Via Airways ;;;
+; LZ-MDR ;Airbus A320-232; Y180 ; 23 May 2012 ; 17 Nov 2015 ;EI-FMW Ansett Worldwide (AWAS) ;lsd ;;
+; LZ-MDT ;Airbus A320-232; Y180 ; 18 Mar 2006 ; 5 Jun 2010 ;5B-DCJ Cyprus Airways ;lsd ;;
+; LZ-PMX ;Airbus A320-214;; 19 Nov 2015 ; 20 Nov 2015 ;LZ-PMX flynas ;lsd ;;
+; LZ-PMY ;Airbus A320-214;; 19 Nov 2015 ; 26 Nov 2015 ;LZ-PMY flynas ;lsd ;;
+; LZ-WOW ;Airbus A320-232; Y180 ; 8 May 2013 ; 2 Jun 2013 ;LZ-WOW WOW air ;lsd ;;
+; LZ-PMZ ;Airbus A321-231;; 26 Aug 2015 ; 17 Jan 2017 ;EI-FBF Apollo Aviation ;lsd ;;
+; LZ-MIG ; Tupolev Tu-154M ; Y159 ; 1993 ; Nov 2006 ;RA-85013 UTair Aviation ;;;
+; LZ-MIR ; Tupolev Tu-154M ; Y159 ; Sep 1994 ; 2005 ;RA-85018 UTair Aviation ;;;
